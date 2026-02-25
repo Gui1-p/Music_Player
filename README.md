@@ -27,7 +27,7 @@ Este é um projeto de um reprodutor de música responsivo desenvolvido para fins
 
 ## ⚙️ Como executar
 
-** 1. Clone o repositório:
+ 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/music-player.git](https://github.com/seu-usuario/music-player.git)
    ```
