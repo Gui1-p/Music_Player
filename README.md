@@ -20,10 +20,10 @@ Este é um projeto de um reprodutor de música responsivo desenvolvido para fins
 
 ## 📂 Estrutura do Projeto
 
-* **`index.html`: Estrutura principal da página.
-* **`style.css`: Estilização e layout responsivo.
-* **`script.js`: Lógica de funcionamento, incluindo o gerenciamento da playlist e funções de controle.
-* **`.gitignore`: Configurado para ignorar arquivos de mídia pesados (`.mp3`, `.wav`, `.jpg`, `.png`).
+* `index.html`: Estrutura principal da página.
+* `style.css`: Estilização e layout responsivo.
+* `script.js`: Lógica de funcionamento, incluindo o gerenciamento da playlist e funções de controle.
+* `.gitignore`: Configurado para ignorar arquivos de mídia pesados (`.mp3`, `.wav`, `.jpg`, `.png`).
 
 ## ⚙️ Como executar
 
