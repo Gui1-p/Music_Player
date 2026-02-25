@@ -32,11 +32,11 @@ Este é um projeto de um reprodutor de música responsivo desenvolvido para fins
    git clone [https://github.com/seu-usuario/music-player.git](https://github.com/seu-usuario/music-player.git)
    ```
 
-* Como o projeto utiliza um .gitignore para arquivos de áudio, adicione seus arquivos .mp3 e imagens .jpg na raiz ou nas pastas referenciadas no código.
+ 2. Como o projeto utiliza um .gitignore para arquivos de áudio, adicione seus arquivos .mp3 e imagens .jpg na raiz ou nas pastas referenciadas no código.
 
-* Certifique-se de que os nomes dos arquivos coincidam com os objetos no script.js (ex: One, Man_in_the_box, EnterSandman).
+ 3. Certifique-se de que os nomes dos arquivos coincidam com os objetos no script.js (ex: One, Man_in_the_box, EnterSandman).
 
-* Abra o arquivo index.html em seu navegador.
+ 4. Abra o arquivo index.html em seu navegador.
 
 ## 🧠 Aprendizados Consolidados
 
