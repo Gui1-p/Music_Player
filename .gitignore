@@ -1,0 +1,10 @@
+# Ignorar arquivos de áudio específicos
+One.mp3
+Enter_sandman.mp3
+Man_in_the_box.mp3
+
+# Ou ignorar TODOS os arquivos de música e imagens de capa
+*.mp3
+*.wav
+*.jpg
+*.png

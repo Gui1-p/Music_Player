@@ -43,8 +43,10 @@ button {
 }
 
 
+
 .button {
     font-size: 1.5em;
+    cursor: pointer;
 }
 
 .button-navigate {
@@ -72,13 +74,28 @@ button {
     height: 5px;
     width: 100%;
     border-radius: 15px;
-    margin-bottom: 1.5em;
 }
 
 #current-progress {
+    --progress: 0%;
     background-color: white;
     height: inherit;
-    width: 50%;
+    width: var(--progress);
     border-radius: inherit;
+}
 
+#progress-container {
+    cursor: pointer;
+}
+
+#time-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: smaller;
+    margin-top: 0.3em;
+}
+
+.button-active {
+    color: rgb(22, 223, 82);
 }

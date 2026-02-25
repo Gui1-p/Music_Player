@@ -10,8 +10,8 @@
 <body>
     <div class="music-container">
         <h4 id="playlist-title">Playlist</h5>
-        <img id="cover" src="/imagens/one.jpg"></img>
-        <audio id="audio" src="/songs/One_(Remastered).mp3"></audio>
+        <img id="cover" alt="Disc Cover."></img>
+        <audio id="audio"></audio>
         
         <div id="below-cover">
             <div id="song-info">
@@ -21,8 +21,14 @@
             <button id="like" class="button light-color"><i class="bi bi-heart"></i></button>
         </div>
 
-        <div id="progress-bar">  
-            <div id="current-progress"> </div>
+        <div id="progress-container">
+            <div id="progress-bar">  
+                <div id="current-progress"> </div>
+            </div>
+            <div id = "time-box">
+                <div id ="song-time"> 00:00:00 </div>
+                <div id = "total-time"> 00:00:00 </div>
+            </div>
         </div>
 
         <div id="button-container">    
