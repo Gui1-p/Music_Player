@@ -30,6 +30,7 @@ Este é um projeto de um reprodutor de música responsivo desenvolvido para fins
 ** 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/music-player.git](https://github.com/seu-usuario/music-player.git)
+   ```
 
 * ** Como o projeto utiliza um .gitignore para arquivos de áudio, adicione seus arquivos .mp3 e imagens .jpg na raiz ou nas pastas referenciadas no código.
 
