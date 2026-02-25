@@ -32,16 +32,16 @@ Este é um projeto de um reprodutor de música responsivo desenvolvido para fins
    git clone [https://github.com/seu-usuario/music-player.git](https://github.com/seu-usuario/music-player.git)
    ```
 
-* ** Como o projeto utiliza um .gitignore para arquivos de áudio, adicione seus arquivos .mp3 e imagens .jpg na raiz ou nas pastas referenciadas no código.
+* Como o projeto utiliza um .gitignore para arquivos de áudio, adicione seus arquivos .mp3 e imagens .jpg na raiz ou nas pastas referenciadas no código.
 
-* **Certifique-se de que os nomes dos arquivos coincidam com os objetos no script.js (ex: One, Man_in_the_box, EnterSandman).
+* Certifique-se de que os nomes dos arquivos coincidam com os objetos no script.js (ex: One, Man_in_the_box, EnterSandman).
 
-* **Abra o arquivo index.html em seu navegador.
+* Abra o arquivo index.html em seu navegador.
 
 ## 🧠 Aprendizados Consolidados
 
-* **Gerenciamento de eventos de áudio (timeupdate, ended, loadedmetadata).
+* Gerenciamento de eventos de áudio (timeupdate, ended, loadedmetadata).
 
-* **Manipulação de estilos CSS através do JavaScript para criar barras de progresso dinâmicas.
+* Manipulação de estilos CSS através do JavaScript para criar barras de progresso dinâmicas.
 
-* **Lógica de embaralhamento de arrays e persistência de estados (shuffle e repeat).
+* Lógica de embaralhamento de arrays e persistência de estados (shuffle e repeat).
